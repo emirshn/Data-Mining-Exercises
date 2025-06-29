@@ -21,7 +21,7 @@ Frequent Pattern Mining:
 - Bank Customer Dataset — used for clustering tasks
 - US Weather Events Dataset — used for classification and pattern mining
 
-Each task is implemented from scratch or using standard libraries to provide hands-on understanding of the underlying techniques. Visualizations, confusion matrices, and evaluation metrics are included where applicable. 
+Each task is implemented using standard libraries to provide hands-on understanding of the underlying techniques. Visualizations, confusion matrices, and evaluation metrics are included where applicable. 
 Both datasets required significant preprocessing to ensure meaningful analysis:
 
 US Weather Events Dataset:
